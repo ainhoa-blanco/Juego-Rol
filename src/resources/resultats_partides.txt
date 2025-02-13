@@ -1,0 +1,7 @@
+ainhoa,Mag,46492,3,50
+blanca,Mag,99014,2,80
+ainhoa,Guerrer,90119,1,60
+ai,Mag,33175,0,0
+eric,Sacerdot,38699,0,50
+ainhoita,Mag,42015,1,50
+afri,Mag,142255,2,110
